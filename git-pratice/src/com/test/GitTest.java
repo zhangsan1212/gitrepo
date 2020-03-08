@@ -11,5 +11,6 @@ public class GitTest {
         System.out.println("git----------");
         System.out.println("git --idea_practice--git--practice");
         System.out.println("git--practice");
+        System.out.println("zhangsan");
     }
 }
