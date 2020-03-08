@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("git----------");
         System.out.println("git----------");
         System.out.println("git----------");
+        System.out.println("git--practice");
     }
 }
